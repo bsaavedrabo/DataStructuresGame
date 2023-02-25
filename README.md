@@ -9,3 +9,7 @@ CSC 236, Data Structures is known for being the hardest class in the Computer Sc
 
 ## Authors: 
 Belen Saavedra and Alejandro Ramos 
+
+
+## Wireframe:
+https://www.figma.com/file/LM0ftcuEoQ7Bpqmpv3kf9J/Stories?node-id=0%3A1&t=ZcTBu29yHPeuikLK-1 
