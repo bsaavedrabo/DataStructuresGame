@@ -1,4 +1,4 @@
-# C++ Tales
+# Object-Oriented Odyssey: A C++ Learning Adventure
 
 This is a game intended to help students learn Object-Oriented Programming Paradigm using C++. 
 
@@ -9,6 +9,9 @@ CSC 236, Data Structures is known for being the hardest class in the Computer Sc
 
 ## Features:
 
+- *Interactive storytelling:* Create interactive stories that engage students in a narrative that incorporates the use of data structures. For example, a story about a character who needs to use a data structure to solve a problem or accomplish a task.
+
+- *Spaced repetition algorithm:* Use a spaced repetition algorithm to ensure that students review concepts at the right intervals for long-term retention. This can be done by tracking student progress and adjusting the review schedule based on their performance.
 - *Personalized learning*: customize learning experience based on individual needs and preferences.
 
 - *Practice problems:* provide with practice problems with provide immediate feedback.
