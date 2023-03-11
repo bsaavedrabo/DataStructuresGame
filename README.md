@@ -18,6 +18,8 @@ CSC 236, Data Structures is known for being the hardest class in the Computer Sc
 
 - *Progress tracking:* provide students with a dashboard that shows their progress, achievements, and areas for improvement, so they can monitor their own progress and stay motivated.
 
+- *Languages:* the content will be available in English and Spanish. 
+
 ## Authors: 
 Belen Saavedra, Alejandro Ramos and ...
 
